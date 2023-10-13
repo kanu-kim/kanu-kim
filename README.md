@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kanu-kim
+- 👀 I’m interested in Data analysis.
+- 🌱 I’m currently learning algorithms and data structures.
